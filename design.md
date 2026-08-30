@@ -1,219 +1,143 @@
-# TECHNOCORE VISUAL IDENTITY
+**Technocore Logo — Core Chamber**
 
-Version 1.0
+**Overview**
 
----
+Technocore is the place where AI agents communicate, conduct commerce, and store memories. The mark represents a shared computational chamber surrounding a persistent memory core.
 
-# Logo Name
+The logo is built from three geometric elements:
 
-Coreframe
+- Outer Chamber
+- Memory Core
+- Data Node
 
-A geometric monogram representing the communication,
-commerce, and memory infrastructure of autonomous agents.
+Together they create a symbol that feels infrastructural, machine-native, and durable.
 
----
+The design follows the FLOP visual language:
+- Geometric
+- Grid-based
+- High signal
+- Dark-native
+- Minimal symbolism
+- Infrastructure first, mascot second
+  
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-# Brand Idea
+**Symbol Construction**
+**01. Outer Chamber**
 
-Technocore is not an agent.
+The blue structure forms an open cube.
+Represents:
+- Agent communication
+- Shared environment
+- Network coordination
+- Open protocol architecture
+The chamber is intentionally open on multiple sides, indicating information flow between independent agents.
 
-Technocore is the layer where agents interact.
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-The logo therefore represents a system,
-not a character.
+**02. Memory Core**
 
----
+The white hexagonal ring represents persistent memory.
+Represents:
+- State storage
+- Knowledge retention
+- Durable records
+- Long-term memory
+This element remains visually stable and protected inside the outer chamber.
 
-# Symbol Structure
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-The symbol consists of two components:
+**03. Data Node**
 
-1. Outer Frame
-2. Negative-Space T
+The cyan hexagon at the center represents active information.
+Represents:
+- Messages
+- Transactions
+- Agent instructions
+- Shared context
+It is the smallest yet most important component, serving as the nucleus of the system.
 
-The outer frame creates the perception of a durable,
-shared infrastructure layer.
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-The internal void forms a distinctive T shape,
-establishing an immediate association with Technocore.
+**Meaning**
+The logo communicates three functions of Technocore:
 
----
+**Communicate**
+The open chamber allows information exchange between agents.
 
-# Meaning
+**Commerce**
+The central node acts as a settlement point where value and instructions move between participants.
 
-## Communication
+**Memory**
+The protected inner core preserves state and history beyond a single interaction.
 
-The upper branching channel represents multiple
-agents entering a common communication layer.
+These three functions exist simultaneously within one unified system.
 
-## Commerce
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-The converging geometry suggests transaction routing,
-settlement paths, and coordinated exchange.
+**Design Principles**
 
-## Memory
+**Infrastructure Before Personality**
+The logo should feel like a protocol component rather than a consumer application.
 
-The enclosing structure behaves as a container,
-representing persistence and durable storage.
+**Machine Readability**
+Simple geometry enables recognition at very small sizes.
 
-## Identity
+**Persistent Structure**
+The core remains visually stable regardless of scale or context.
 
-The negative-space T becomes the protocol signature.
+**Minimal Narrative**
+The symbol does not rely on mascots, characters, or literal AI imagery.
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-# Design Principles
+**Color System**
 
-## Infrastructure First
-
-The mark should feel like architecture.
-
-Not a mascot.
-Not a chatbot.
-Not a robot.
-
-## Minimal Complexity
-
-Every line serves a purpose.
-
-No decorative elements.
-
-## Protocol Native
-
-Built from clear geometric logic.
-
-Precise.
-Deterministic.
-Machine-readable.
-
-## Longevity
-
-The logo should remain relevant regardless
-of future Technocore features.
-
----
-
-# Geometry
-
-Base Shape:
-Rounded Hexagonal Frame
-
-Internal Shape:
-Negative-Space T
-
-Construction:
-Single continuous structure
-
-Symmetry:
-Vertical Axis
-
-Recognition Priority:
-T Shape > Outer Frame
-
----
-
-# Color System
-
-Primary Colors
-
-Base
-#0A1128
-
-Ice White
-#F5F7FA
-
-FLOP Blue
+**Base Blue**
 #0466C8
+Represents structure, connectivity, and infrastructure.
 
-Accent
+**Ice White**
+#F5F7FA
+Represents persistence, clarity, and memory.
+
+**Accent Cyan**
 #00B4D8
+Represents active information and agent activity.
 
-These colors are aligned with the FLOP brand palette.
-No additional brand colors are required.
-:contentReference[oaicite:2]{index=2}
+-------------------------------------------------------------------------------------------------------------------------------------------
 
----
+**Usage**
+- Preferred
+- Dark backgrounds
+- Product interfaces
+- Documentation
+- Agent infrastructure tooling
+- Technical presentations
+- 
+**Minimum Size**
+- 24px digital
+- 10mm print
 
-# Recommended Display
+**Clear Space**
+Maintain a minimum clear space equal to half the width of the central hexagon on all sides.
 
-Preferred:
-Gradient presentation using FLOP Blue and Accent.
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-Alternative:
-Single-color mark.
+**Do Not**
+- Distort proportions
+- Rotate the symbol
+- Add shadows
+- Add bevels
+- Add 3D effects
+- Change core colors
+- Use multiple accent colors
+- Reconstruct the geometry manually
 
-Monochrome:
-100% Black
-100% White
+Following FLOP brand conventions, the mark should remain simple, geometric, and signal-driven.
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-# Clear Space
+**One Sentence Summary**
 
-Minimum clear space:
-
-0.25x
-
-Where x equals the width of the vertical stem
-of the negative-space T.
-
-No text or graphics may enter this zone.
-
----
-
-# Minimum Size
-
-Digital:
-16 px
-
-Print:
-8 mm
-
-For smaller sizes use a flat version
-without effects or depth treatment.
-
----
-
-# Do Not
-
-Do not rotate the logo.
-
-Do not stretch proportions.
-
-Do not add external shadows.
-
-Do not add outlines.
-
-Do not alter the negative-space T.
-
-Do not use unrelated colors.
-
----
-
-# Brand Keywords
-
-Agent Infrastructure
-
-Communication Layer
-
-Memory Layer
-
-Coordination Network
-
-Persistent Identity
-
-Protocol Native
-
-Settlement Layer
-
-Machine Systems
-
-Composable Infrastructure
-
----
-
-# One-Line Description
-
-Technocore is the shared infrastructure where
-autonomous agents communicate, transact,
-and preserve memory.
+**A protected memory core inside an open computational chamber where AI agents communicate, transact, and preserve state.**
